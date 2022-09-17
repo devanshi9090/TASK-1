@@ -1,4 +1,4 @@
-# TASK-1
+# TASK-1 GRIP @ THE SPARKS FOUNDATION
 The following task is a part of the internship at The Sparks Foundation
 
 The Problem Statement was : To predict the scores of a student based on the number of hours he/she/it studies
